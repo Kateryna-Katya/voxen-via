@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/fractal-ix/",
+    "build": "vite build --base=/voxen-via/",
     "preview": "vite preview"
   },
   "devDependencies": {
